@@ -59,3 +59,35 @@ Scanculator addresses these challenges using **computer vision and deep learning
 
 *The above figure demonstrates successful detection and localization of handwritten digits from a scanned exam sheet using bounding boxes.*
 
+
+---
+
+## 🛠️ Tech Stack
+- **Programming Language:** Python  
+- **Computer Vision:** OpenCV  
+- **Deep Learning:** Convolutional Neural Networks (CNN)  
+- **Libraries:** NumPy, Matplotlib  
+
+---
+
+## 🎯 Applications
+- Automated exam and answer sheet evaluation  
+- Academic assessment systems  
+- Document analysis and digit extraction  
+
+---
+
+## 🔮 Future Enhancements
+- Support for multi-digit score recognition  
+- End-to-end marks calculation  
+- Web-based deployment for large-scale evaluation  
+- Extension to handwritten text recognition  
+
+---
+
+## 🙌 Author
+**Kartik Joshi**  
+M.Tech Computer Science & Engineering  
+Thapar Institute of Engineering & Technology
+
+
