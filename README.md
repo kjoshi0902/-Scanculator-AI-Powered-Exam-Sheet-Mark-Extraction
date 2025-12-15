@@ -51,4 +51,11 @@ Scanculator addresses these challenges using **computer vision and deep learning
 
 ---
 
-## 🏗️ Project Architecture
+## 🖼️ Project Demonstration
+
+<p align="center">
+  <img src="debug_detected_boxes.png" alt="Digit Detection Demonstration" width="800">
+</p>
+
+*The above figure demonstrates successful detection and localization of handwritten digits from a scanned exam sheet using bounding boxes.*
+
